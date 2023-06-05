@@ -65,7 +65,7 @@ Login credentials to login at www.digitalcombatsimulator.com and get the list of
 Redis server, port and db #
 * `DCS_SERVER_TRACKER_REDIS_IP`
 * `DCS_SERVER_TRACKER_REDIS_PORT`
-* `DCS_SERVER_TRACKER_REDIS_DB`
+* `DCS_SERVER_TRACKER_REDIS_DB` AS NUMBER
 
 ### MySQL
 Fill in your MySQL info here
