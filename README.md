@@ -58,7 +58,7 @@ The applications is configured using environmental variables. These are the foll
 
 ### DCS Account
 Login credentials to login at www.digitalcombatsimulator.com and get the list of servers
-* `DCS_SERVER_TRACKER_ED_USERNAME
+* `DCS_SERVER_TRACKER_ED_USERNAME`
 * `DCS_SERVER_TRACKER_ED_PASSWORD`
 
 ### Redis
